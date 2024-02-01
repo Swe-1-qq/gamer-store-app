@@ -1,13 +1,0 @@
-
-P	java:S125"<This block of commented-out lines of code should be removed.(û«”
-V	java:S125"<This block of commented-out lines of code should be removed.(ÌğßØùÿÿÿÿ
-M
-java:S1135"2Complete the task associated to this TODO comment.(ÌğßØùÿÿÿÿ
-V	java:S125!"<This block of commented-out lines of code should be removed.(‚ÍÁÃıÿÿÿÿ
-M
-java:S1135!"2Complete the task associated to this TODO comment.(‚ÍÁÃıÿÿÿÿ
-Q	java:S125$"<This block of commented-out lines of code should be removed.(„Û«Ù
-H
-java:S1135$"2Complete the task associated to this TODO comment.(„Û«Ù
-X
-java:S6353T"CUse concise character class syntax '\\w' instead of '[a-zA-Z0-9_]'.(¤…

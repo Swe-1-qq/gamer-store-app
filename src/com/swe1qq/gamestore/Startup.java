@@ -25,7 +25,6 @@ final class Startup {
 
         //===
         AnsiConsole.systemInstall();                                      // #1
-        System.out.println(ansi().eraseScreen().render("Simple list example:"));
 
         try {
             AuthView authView = new AuthView(authService, signUpService, gamerStoreService);

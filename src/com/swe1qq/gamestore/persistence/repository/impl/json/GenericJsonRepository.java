@@ -68,7 +68,6 @@ class GenericJsonRepository<E extends Entity> implements Repository<E> {
         try {
             fileNotFound();
             var json = Files.readString(path);
-            System.out.println(Files.readString(path));
             return isValidJson(json) ? gson.fromJson(json, collectionType) : new HashSet<>();
         } catch (IOException e) {
             throw new JsonFileIOException("Помилка при роботі із файлом %s."

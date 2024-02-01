@@ -125,6 +125,21 @@
         "id": "b3e7668f-648f-4cc9-8883-c519024c02ef"
       }
     ],
+    "payment": {
+      "customer": {
+        "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+        "birthday": "08-03-2006",
+        "role": "ADMIN",
+        "email": "azot96ua@gmail.com",
+        "username": "Adamssson",
+        "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+        "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+      },
+      "paymentDate": "02-02-2024 01:13",
+      "amount": 287.8,
+      "passed": true,
+      "id": "98a799a9-6da8-403b-88d4-df13ca1f3505"
+    },
     "id": "615928c3-8046-4502-8d5f-776d52fa2076"
   },
   {
@@ -370,6 +385,36 @@
         "price": 176.0,
         "quantity": 9,
         "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
+      }
+    ],
+    "id": "1ff11de3-3589-41f7-8dc4-8c75f13516f6"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      },
+      {
+        "type": "MONITOR",
+        "name": "Монітор HP",
+        "description": "Крутий монітор 10hz",
+        "price": 176.0,
+        "quantity": 9,
+        "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
       },
       {
         "type": "KEYBOARD",
@@ -433,6 +478,36 @@
       "id": "17f2d407-1e46-4adc-b784-effec39d1c62"
     },
     "id": "89239be2-8f31-4ae4-b3b6-7251f9e5fa35"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      },
+      {
+        "type": "MONITOR",
+        "name": "Монітор HP",
+        "description": "Крутий монітор 10hz",
+        "price": 176.0,
+        "quantity": 9,
+        "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
+      }
+    ],
+    "id": "62b225ad-22e1-48a3-8498-fb852304f38d"
   },
   {
     "customer": {
