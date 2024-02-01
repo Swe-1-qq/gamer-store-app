@@ -1,0 +1,475 @@
+[
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      },
+      {
+        "type": "MONITOR",
+        "name": "Монітор HP",
+        "description": "Крутий монітор 10hz",
+        "price": 176.0,
+        "quantity": 9,
+        "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
+      },
+      {
+        "type": "KEYBOARD",
+        "name": "Клавіатура Razer",
+        "description": "нема",
+        "price": 72.3,
+        "quantity": 5,
+        "id": "b3e7668f-648f-4cc9-8883-c519024c02ef"
+      }
+    ],
+    "payment": {
+      "customer": {
+        "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+        "birthday": "08-03-2006",
+        "role": "ADMIN",
+        "email": "azot96ua@gmail.com",
+        "username": "Adamssson",
+        "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+        "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+      },
+      "paymentDate": "02-02-2024 00:43",
+      "amount": 287.8,
+      "passed": true,
+      "id": "aab3c88a-a563-4ed4-b243-554e178618d2"
+    },
+    "id": "4f864b54-d6f8-4776-ac78-88b131d6e034"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MONITOR",
+        "name": "Монітор HP",
+        "description": "Крутий монітор 10hz",
+        "price": 176.0,
+        "quantity": 9,
+        "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
+      }
+    ],
+    "payment": {
+      "customer": {
+        "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+        "birthday": "08-03-2006",
+        "role": "ADMIN",
+        "email": "azot96ua@gmail.com",
+        "username": "Adamssson",
+        "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+        "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+      },
+      "paymentDate": "02-02-2024 00:47",
+      "amount": 176.0,
+      "passed": true,
+      "id": "0490d286-cd98-455a-8a03-df9ddec33725"
+    },
+    "id": "0f790817-f176-49db-828e-2ddc6e71f77e"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      },
+      {
+        "type": "MONITOR",
+        "name": "Монітор HP",
+        "description": "Крутий монітор 10hz",
+        "price": 176.0,
+        "quantity": 9,
+        "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
+      },
+      {
+        "type": "KEYBOARD",
+        "name": "Клавіатура Razer",
+        "description": "нема",
+        "price": 72.3,
+        "quantity": 5,
+        "id": "b3e7668f-648f-4cc9-8883-c519024c02ef"
+      }
+    ],
+    "id": "615928c3-8046-4502-8d5f-776d52fa2076"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      }
+    ],
+    "id": "d8e11cb0-80b5-42b6-9b0c-9b86f60912a1"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      },
+      {
+        "type": "MONITOR",
+        "name": "Монітор HP",
+        "description": "Крутий монітор 10hz",
+        "price": 176.0,
+        "quantity": 9,
+        "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
+      },
+      {
+        "type": "KEYBOARD",
+        "name": "Клавіатура Razer",
+        "description": "нема",
+        "price": 72.3,
+        "quantity": 5,
+        "id": "b3e7668f-648f-4cc9-8883-c519024c02ef"
+      }
+    ],
+    "id": "7de7cf47-10a0-4526-bb76-3e7ad4ae9030"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      }
+    ],
+    "payment": {
+      "customer": {
+        "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+        "birthday": "08-03-2006",
+        "role": "ADMIN",
+        "email": "azot96ua@gmail.com",
+        "username": "Adamssson",
+        "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+        "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+      },
+      "paymentDate": "02-02-2024 00:29",
+      "amount": 39.5,
+      "passed": true,
+      "id": "1b5b5fa7-2a5a-4549-844e-74c539c1e102"
+    },
+    "id": "e429d58a-0827-4636-9132-2cfcb8a897a7"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      },
+      {
+        "type": "MONITOR",
+        "name": "Монітор HP",
+        "description": "Крутий монітор 10hz",
+        "price": 176.0,
+        "quantity": 9,
+        "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
+      },
+      {
+        "type": "KEYBOARD",
+        "name": "Клавіатура Razer",
+        "description": "нема",
+        "price": 72.3,
+        "quantity": 5,
+        "id": "b3e7668f-648f-4cc9-8883-c519024c02ef"
+      }
+    ],
+    "id": "6e51716b-384d-4837-92c2-349cea4f05e6"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      }
+    ],
+    "id": "845f72eb-c722-4338-8bf3-eb0a0ff0e39b"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      },
+      {
+        "type": "MONITOR",
+        "name": "Монітор HP",
+        "description": "Крутий монітор 10hz",
+        "price": 176.0,
+        "quantity": 9,
+        "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
+      },
+      {
+        "type": "KEYBOARD",
+        "name": "Клавіатура Razer",
+        "description": "нема",
+        "price": 72.3,
+        "quantity": 5,
+        "id": "b3e7668f-648f-4cc9-8883-c519024c02ef"
+      }
+    ],
+    "id": "2973b4e3-ef17-4761-9b54-4143f10bc1ef"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      }
+    ],
+    "id": "f3517d88-32de-456f-ad36-a24bc130f028"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      },
+      {
+        "type": "MONITOR",
+        "name": "Монітор HP",
+        "description": "Крутий монітор 10hz",
+        "price": 176.0,
+        "quantity": 9,
+        "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
+      },
+      {
+        "type": "KEYBOARD",
+        "name": "Клавіатура Razer",
+        "description": "нема",
+        "price": 72.3,
+        "quantity": 5,
+        "id": "b3e7668f-648f-4cc9-8883-c519024c02ef"
+      }
+    ],
+    "payment": {
+      "customer": {
+        "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+        "birthday": "08-03-2006",
+        "role": "ADMIN",
+        "email": "azot96ua@gmail.com",
+        "username": "Adamssson",
+        "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+        "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+      },
+      "paymentDate": "02-02-2024 00:38",
+      "amount": 287.8,
+      "passed": true,
+      "id": "dd9b6394-132c-4866-a388-d4550d0b6951"
+    },
+    "id": "edafc2c1-9ba3-4ae6-bea0-6afaf8b93513"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      }
+    ],
+    "payment": {
+      "customer": {
+        "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+        "birthday": "08-03-2006",
+        "role": "ADMIN",
+        "email": "azot96ua@gmail.com",
+        "username": "Adamssson",
+        "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+        "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+      },
+      "paymentDate": "02-02-2024 00:34",
+      "amount": 39.5,
+      "passed": true,
+      "id": "17f2d407-1e46-4adc-b784-effec39d1c62"
+    },
+    "id": "89239be2-8f31-4ae4-b3b6-7251f9e5fa35"
+  },
+  {
+    "customer": {
+      "password": "$2a$10$cpqwuTjc3PH2OWs85k2gueMrc2LUtlQwEi9ZEodPOEoy0ANNrGInK",
+      "birthday": "08-03-2006",
+      "role": "ADMIN",
+      "email": "azot96ua@gmail.com",
+      "username": "Adamssson",
+      "avatar": "Images\\Avatars\\cd7ea80a-e32e-4e8f-8f32-24e8db458d39.jpg",
+      "id": "1682ff5e-fe51-4f6d-b879-f10a1dd49662"
+    },
+    "products": [
+      {
+        "type": "MOUSE",
+        "name": "Razer",
+        "description": "Ігрова мишка",
+        "price": 39.5,
+        "quantity": 7,
+        "id": "b9109f55-a8ec-4440-9630-d7c9c80518f2"
+      },
+      {
+        "type": "MONITOR",
+        "name": "Монітор HP",
+        "description": "Крутий монітор 10hz",
+        "price": 176.0,
+        "quantity": 9,
+        "id": "22f9f50f-0eab-4267-ba49-b952d55cbfbd"
+      },
+      {
+        "type": "KEYBOARD",
+        "name": "Клавіатура Razer",
+        "description": "нема",
+        "price": 72.3,
+        "quantity": 5,
+        "id": "b3e7668f-648f-4cc9-8883-c519024c02ef"
+      }
+    ],
+    "id": "7695827d-1e2f-4692-aa81-fb293a413364"
+  }
+]

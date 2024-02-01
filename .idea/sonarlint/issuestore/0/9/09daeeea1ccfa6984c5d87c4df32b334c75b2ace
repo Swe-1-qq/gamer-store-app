@@ -1,0 +1,22 @@
+
+g	java:S112d"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒÑ¶Ö1
+h	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ŸƒÑ¶Ö1
+h	java:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ŸƒÑ¶Ö1
+h	java:S112ë"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ŸƒÑ¶Ö1
+h	java:S112ı"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8 ƒÑ¶Ö1
+i
+java:S1301ñ"KReplace this "switch" statement by "if" statements to increase readability.(× ô‰8¢ƒÑ¶Ö1
+i
+java:S1301ˆ"KReplace this "switch" statement by "if" statements to increase readability.(íÒ–8¢ƒÑ¶Ö1
+L	java:S106b"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ÍƒÑ¶Ö1
+H	java:S106¥"+Replace this use of System.out by a logger.(ÇØÚó8ÓƒÑ¶Ö1
+H	java:S106©"+Replace this use of System.out by a logger.(‚Ş¼ä8ÓƒÑ¶Ö1
+F	java:S108ª")Either remove or fill this block of code.(üØô8ÓƒÑ¶Ö1
+M	java:S106Ò"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ÛƒÑ¶Ö1
+v	java:S131ñ"YComplete cases by adding the missing enum constants or add a default case to this switch.(× ô‰8âƒÑ¶Ö1
+|
+java:S2142ü"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ãƒÑ¶Ö1
+M	java:S106ù"+Replace this use of System.out by a logger.(ë©¹³ùÿÿÿÿ8ãƒÑ¶Ö1
+M	java:S106û"+Replace this use of System.out by a logger.(ğè‡üüÿÿÿÿ8äƒÑ¶Ö1
+?
+java:S6205”"Remove this redundant block.(ıÉçøÿÿÿÿ8óƒÑ¶Ö1

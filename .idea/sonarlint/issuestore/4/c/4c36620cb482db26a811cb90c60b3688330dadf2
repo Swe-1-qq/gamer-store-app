@@ -1,0 +1,12 @@
+
+a	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+d
+java:S1192:"IDefine a constant instead of duplicating this literal "password" 4 times.(ïÜ£–ıÿÿÿÿ
+d
+java:S11926"IDefine a constant instead of duplicating this literal "username" 4 times.(–ÕÏ‰ÿÿÿÿÿ
+@	java:S106K"+Replace this use of System.out by a logger.(¤ÃÆÑ
+E	java:S106P"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ
+A	java:S106"+Replace this use of System.out by a logger.(ô¯ÅÓ
+F	java:S106†"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ
+A	java:S106Š"+Replace this use of System.out by a logger.(‚Ş¼ä
+?	java:S108‹")Either remove or fill this block of code.(üØô
